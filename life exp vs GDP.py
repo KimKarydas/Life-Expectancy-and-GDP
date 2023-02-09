@@ -40,6 +40,7 @@ fig1 = px.scatter(data_frame = df,
 fig1.show()
 
 
+#This code creates an HTML page containing the above graph
 pio.write_html(fig1, file='figure1.html', auto_open=True)
 
 #Scatter Plot with Trendline
