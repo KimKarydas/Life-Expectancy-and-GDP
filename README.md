@@ -1,3 +1,4 @@
+
 # **Life-Expectancy-and-GDP**
 Discover the connection between economic development and life expectancy with  plots and insights. With data from 142 countries worldwide, this project provides a unique perspective on the impact of Gross Domestic Product (GDP) on life expectancy.This project focuses on the intention of better understanding what could impact life expectancy. In this study, I utilized Jupyter Notebook and Python coding to produce plots as a visual representation of the data. The goal of this project is to find the reasons behind why life expectancy may vary.
 
@@ -11,6 +12,17 @@ Life Expectancy is a statistical measure that represents the average number of y
 ## What is GDP?
 Gross Domestic Product (GDP) is the value of all goods and services produced within a country's borders over a given period of time. It is a widely used measure of a country's economic performance and is used to compare the economic strength of different countries.
 
-
 ## Geodemographic Impact of the data
 Geodemographic differences can have a significant impact on life expectancy. Factors such as access to healthcare, nutrition, clean water, and sanitation can vary greatly between regions and countries, and these differences can impact the overall health and well-being of populations. In addition, poverty, education levels, and cultural attitudes can also impact life expectancy. In general, countries with higher GDPs tend to have higher life expectancies, as they are better able to invest in healthcare and other factors that contribute to improved health outcomes. However, this is not always the case, and there can be significant differences in life expectancy even within countries with similar GDPs.
+
+## Metadata
+Below is a detailed list of the fields present in the dataset:
+- Country: There are 142 unique countries listed (str).
+- Year: The data pertains to the year 2007 (int).
+- Population: The population size at the time of data collection (int).
+- Continent: The continent to which the given country belongs (str).
+- Life_exp: The average life expectancy in years (float).
+- GDP_cap: The gross domestic product (GDP) per capita, which is the sum of the gross value added by all resident producers in the economy, divided by the total population. This is expressed in US dollars (float).
+
+
+![Life exp im](https://user-images.githubusercontent.com/98535841/220430879-d58e5dfa-cbbb-40aa-9408-bc307059ddd6.png)
