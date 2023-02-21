@@ -17,12 +17,12 @@ Geodemographic differences can have a significant impact on life expectancy. Fac
 
 ## Metadata
 Below is a detailed list of the fields present in the dataset:
-- Country: There are 142 unique countries listed (str).
-- Year: The data pertains to the year 2007 (int).
-- Population: The population size at the time of data collection (int).
-- Continent: The continent to which the given country belongs (str).
-- Life_exp: The average life expectancy in years (float).
-- GDP_cap: The gross domestic product (GDP) per capita, which is the sum of the gross value added by all resident producers in the economy, divided by the total population. This is expressed in US dollars (float).
+- **Country:** There are 142 unique countries listed (str).
+- **Year:** The data pertains to the year 2007 (int).
+- **Population:** The population size at the time of data collection (int).
+- **Continent:** The continent to which the given country belongs (str).
+- **Life_exp:** The average life expectancy in years (float).
+- **GDP_cap:** The gross domestic product (GDP) per capita, which is the sum of the gross value added by all resident producers in the economy, divided by the total population. This is expressed in US dollars (float).
 
 
 ![Life exp im](https://user-images.githubusercontent.com/98535841/220430879-d58e5dfa-cbbb-40aa-9408-bc307059ddd6.png)
