@@ -26,3 +26,6 @@ Below is a detailed list of the fields present in the dataset:
 
 
 ![Life exp im](https://user-images.githubusercontent.com/98535841/220430879-d58e5dfa-cbbb-40aa-9408-bc307059ddd6.png)
+
+
+## This project is complete and no longer requires further updates or contributions. Therefore, this will no longer be actively maintained.
